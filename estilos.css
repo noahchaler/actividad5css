@@ -1,0 +1,72 @@
+:root{
+    --color-Castellano:#f7d892;
+    --color-Informatica:#92c9f7;
+    --color-Matematicas:#f78c6c;
+    --color-Ciencias:#baf76c;
+    --color-Valenciano:#F59c24;
+    --color-Ingles: #faabf6;
+    --color-Tecnologia: #28d892;
+    --color-Cultura: #FF1D1D;
+    --color-EF: #F2EE00;
+    --color-Historia: #00a2df;
+    --color-Valores: #B75FF7;
+    --color-Tutoria: #FF3F73;
+    --color-Dias: #fac855;
+
+}
+.Castellano{
+    background-color: var(--color-Castellano);
+    width: 50px;
+
+}
+.Informatica{
+    background-color: var(--color-Informatica);
+    width: 50px;
+
+}
+.Matematicas{
+    background-color: var(--color-Matematicas);
+    width: 50px;
+}
+.Ciencias{
+    background-color: var(--color-Ciencias);
+    width: 50px;
+}
+.Valenciano{
+    background-color: var(--color-Valenciano);
+    width: 50px;
+ }
+ .Ingles{
+    background-color: var(--color-Ingles);
+    width: 50px;
+ }
+ .Tecnologia{
+    background-color: var(--color-Tecnologia);
+    width: 50px;
+ }
+ .Cultura{
+    background-color: var(--color-Cultura);
+    width: 50px;
+ }
+.EF{
+    background-color: var(--color-EF);
+    width: 50px;
+
+}
+.Historia{
+    background-color: var(--color-Historia);
+    width: 50px;
+}
+.Valores{
+    background-color: var(--color-Valores);
+    width: 50px;
+}
+.Tutoria{
+    background-color: var(--color-Tutoria);
+    width: 50px;
+}
+.Dias{
+    background-color: var(--color-Dias);
+    width: 20px;
+}
+
